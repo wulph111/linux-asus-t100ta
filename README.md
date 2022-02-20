@@ -1,3 +1,5 @@
+forked to preserve instructions for creating bootia32.efi (see boot/readme.md)
+
 linux-asus-t100ta
 =================
 
